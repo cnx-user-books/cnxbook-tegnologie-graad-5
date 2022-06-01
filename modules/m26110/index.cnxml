@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Stelsels</title>
+  <metadata>
+  <md:content-id>m26110</md:content-id><md:title>Stelsels</md:title>
+  <md:abstract/>
+  <md:uuid>83ee3a6c-f5d2-4b55-ab18-ade0aa881476</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5669087">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id5669087">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2909507">
+      <title>Graad 5</title>
+      <para id="para-id2909507">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1564117">
+      <title>MAAK MASJIENE MAKLIK</title>
+      <para id="para-id1564117">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5466800">
+      <title>Module 1</title>
+      <para id="para-id5466800">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166617746338">
+      <title>STELSELS</title>
+      <para id="id2771799">VOORKENNIS</para>
+      <list id="id6452567" list-type="enumerated" number-style="upper-alpha">
+        <item>WAT IS ‘N STELSEL?</item>
+      </list>
+      <list id="id2957139" list-type="enumerated" number-style="arabic">
+        <item>Sjoe! Het jy al ooit vantevore van hierdie woord gehoor?  </item>
+      </list>
+      <para id="id7269613">Indien jou antwoord <emphasis effect="italics">ja</emphasis> was, verduidelik kortliks hieronder. Indien jou antwoord <emphasis effect="italics">nee</emphasis> was, let nou mooi op:</para>
+      <para id="id1166622285154">Weet jy dat jou liggaam uit nege verskillende stelsels bestaan? Drie daarvan is jou <emphasis effect="bold">beenstelsel</emphasis>, jou <emphasis effect="bold">spierstelsel </emphasis>en jou <emphasis effect="bold">asemhalingstelsel</emphasis>.</para>
+      <para id="id2896040">Opdrag</para>
+      <list id="id3410724" list-type="enumerated" number-style="arabic">
+        <item>Skryf elke stelsel neer wat ooreenstem met die prentjies hieronder.</item>
+      </list>
+      <figure id="id1166619356442">
+        <media id="id1166619356442_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-b72d.png" id="id1166619356442__onlineimage" height="185" width="104"/>
+        </media>
+      </figure>
+      <figure id="id1166612634145">
+        <media id="id1166612634145_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-500d.png" id="id1166612634145__onlineimage" height="182" width="71"/>
+        </media>
+      </figure>
+      <para id="id2862254">
+        <figure id="id3225618">
+          <media id="id3225618_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-17bd.png" id="id3225618__onlineimage" height="127" width="136"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id3633922" list-type="enumerated" number-style="arabic">
+        <item>Kan jy enige ander stelsel van jou liggaam opnoem?</item>
+      </list>
+      <para id="id1166612642014">'n <emphasis effect="bold">Stelsel</emphasis> is dus ‘n stel eenhede wat saam werk om 'n sekere taak te verrig.</para>
+      <para id="id1374735">Voorbeeld: Jou beenstelsel bestaan uit jou skedel ('n eenheid) en geraamte ('n eenheid) wat 'n sterk raamwerk (taak) is vir jou liggaam.</para>
+      <list id="id1166624628116" list-type="enumerated" number-style="upper-alpha">
+        <item>STELSELS IN TEGNOLOGIE</item>
+      </list>
+      <para id="id3721003">In Tegnologie kry ons te doen met vier verskillende stelsels, nl. <emphasis effect="bold">elektriese</emphasis>, <emphasis effect="bold">meganiese</emphasis>, <emphasis effect="bold">hidrouliese </emphasis>(vloeistofdruk-) en <emphasis effect="bold">pneumatiese </emphasis>(lugdruk-) stelsels.</para>
+      <list id="id3147097" list-type="enumerated" number-style="upper-alpha">
+        <item>MEGANIESE STELSELS</item>
+      </list>
+      <para id="id1166613433451">In hierdie module gaan ons kyk na meganiese stelsels. 'n Voorbeeld van 'n groot meganiese stelsel is 'n fiets. 'n Meganiese stelsel gebruik energie om 'n bepaalde funksie te verrig. Dit kan wees om die spoed, die rigting of die krag wat uitgeoefen word te verander.</para>
+      <para id="id6963728">Opdrag</para>
+      <para id="id3714759">Bestudeer die illustrasie met byskrifte en beantwoord die vrae wat volg:</para>
+      <figure id="id2869390">
+        <media id="id2869390_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-b749.png" id="id2869390__onlineimage" height="337" width="475"/>
+        </media>
+      </figure>
+      <list id="id3686397" list-type="enumerated" number-style="arabic">
+        <item>Kopieer die tabel en vul in watter deel/dele van die fiets vorm die:</item>
+      </list>
+      <table id="id1166624696775" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Deel / Dele</entry>
+              <entry>Funksie</entry>
+            </row>
+            <row>
+              <entry>a) aandrywingseenheid</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>b) stuureenheid</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>c) stopeenheid</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id2619013" list-type="enumerated" number-style="arabic">
+        <item>Wat is elk van bogenoemde se <emphasis effect="bold">funksie</emphasis>?</item>
+      </list>
+      <para id="id3039560">[LU 1.2]</para>
+      <para id="id7761551">As ons die fiets "opbreek" in verskillende dele volgens die taak/werk wat elkeen verrig, kan ons makliker verstaan hoe elke eenheid werk. Elke eenheid kan ook in drie kleiner stelsels opgebreek word, nl. 'n <emphasis effect="bold">inset-</emphasis>, 'n <emphasis effect="bold">prosessering</emphasis>- en 'n <emphasis effect="bold">uitset</emphasis>stelsel.</para>
+      <para id="id2606528">Kom ons verduidelik dit so:</para>
+      <para id="id1166617883399"><emphasis effect="bold">INSET </emphasis>(krag of beweging)</para>
+      <para id="id7910014">Krag word toegepas op die pedale deur die fietsryer se voete.</para>
+      <para id="id3770446"><emphasis effect="bold">PROSESSERING </emphasis>(omgesit/oorgedra)</para>
+      <para id="id3618385">Die ketting en ratstelsel veroorsaak</para>
+      <para id="id1166616878209"><emphasis effect="bold">UITSET </emphasis>(verlangde krag of beweging)</para>
+      <para id="id1166618859690">dat die agterwiel draai, wat die fiets in beweging bring.</para>
+      <list id="id1166613620105" list-type="enumerated" number-style="upper-alpha">
+        <item>BEHEER</item>
+      </list>
+      <para id="id3670525">Opdrag</para>
+      <list id="id2875846" list-type="enumerated" number-style="arabic">
+        <item>Wat beteken dit om beheer uit te oefen? (Gebruik ‘n verklarende woordeboek.)</item>
+      </list>
+      <para id="id2818703">Beheer kan deur middel van 'n <emphasis effect="bold">oop</emphasis> of 'n <emphasis effect="bold">geslote stelsel</emphasis> uitgeoefen word. 'n <emphasis effect="bold">Oop stelsel kan beheer word</emphasis>, terwyl 'n <emphasis effect="bold">geslote stelsel outomaties werk</emphasis>. (Jy sal in die latere grade meer hieroor leer.)</para>
+      <list id="id1166612589045" list-type="enumerated" number-style="upper-alpha">
+        <item>TIPES BEWEGINGS WAT 'N MEGANISME KAN UITOEFEN</item>
+      </list>
+      <para id="id1166613428329">Daar is hoofsaaklik vier soorte bewegings wat 'n meganiese stelsel kan uitoefen as 'n krag daarop inwerk, naamlik</para>
+      <para id="id1166618170947">'n liniêre beweging (in 'n reguit lyn en in een rigting)</para>
+      <para id="id3646928">'n heen-en-weer beweging (vorentoe en agtertoe in 'n reguit lyn)</para>
+      <para id="id1166613742102">'n rotasie-beweging ('n beweging al in die rondte soos 'n wiel wat</para>
+      <para id="id1166624664154">draai).</para>
+      <para id="id3570034">'n swaai-beweging ('n beweging vorentoe en agtertoe in 'n boog</para>
+      <para id="id3132881">soos 'n swaai).</para>
+      <para id="id1166613623407">Opdrag</para>
+      <list id="id7403262" list-type="enumerated" number-style="arabic">
+        <item>Dui met 'n pyl in die eerste kolom van die vorige tabel aan watter tipe beweging elkeen van die meganiese stelsels uitvoer.</item>
+      </list>
+      <para id="id1166616931540">'n Masjien is 'n kombinasie van verskillende meganismes/meganiese stelsels.</para>
+      <para id="id1166617799209">[LU 1.3]</para>
+      <list id="id1166622460010" list-type="enumerated" number-style="upper-alpha">
+        <item>BEWEGING</item>
+      </list>
+      <para id="id3196146">Die aantrekkingskrag van die aarde veroorsaak dat alle voorwerpe na die aarde toe aangetrek word. Mense het egter meganiese stelsels ontwerp om masjiene in verskillende rigtings en met verskil in spoed te laat beweeg. Wiele, hefbome, katrolle en ratte maak dit makliker om 'n swaar voorwerp te beweeg.</para>
+    </section>
+    <section id="id1166624662128">
+      <title>Assessering</title>
+      <para id="id1166613447953">LU 1</para>
+      <para id="id1166615529250">TEGNOLOGIESE PROSESSE EN VAARDIGHEDE</para>
+      <para id="id1166617817865">Die leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</para>
+      <para id="id1429750">Dit is duidelik wanneer die leerder:</para>
+      <para id="id1166615824697">Ondersoek:</para>
+      <para id="id1166624677256">1.2 uitvind oor bestaande produkte wat relevant vir ‘n probleem, behoefte of geleentheid is, en sommige ontwerpaspekte identifiseer (bv. vir wie dit is, waarvoor dit is, hoe dit lyk, waarvan dit gemaak is);</para>
+      <para id="id1166615995239">1.3 waar gepas, ‘n wetenskaplike ondersoek uitvoer oor begrippe wat relevant vir ‘n probleem, behoefte of geleentheid is deur wetenskapprosesvaardighede te gebruik:1.3.1 beplan die ondersoek;</para>
+      <list id="id1166613573096" list-type="bulleted">
+        <item>voer die ondersoek uit;</item>
+      </list>
+      <para id="id1166615575252">1.3.3 verwerk en interpreteer data;</para>
+      <para id="id4838098">1.3.4 evalueer en kommunikeer bevindinge;<emphasis effect="bold"/></para>
+      <para id="id1166613422707">Maak:</para>
+      <para id="id1166613498777">1.7 die stappe in ‘n plan beskryf om iets te maak, insluitend tekeninge of sketse van hoofdele;</para>
+      <para id="id1166613587245">1.8 gepaste gereedskap en materiaal gebruik om produkte te maak deur die gekose materiaal af te meet, uit te merk, te sny of te skei, te vorm of te vervorm, aan mekaar te heg, te las of saam te voeg, en af te rond;</para>
+      <para id="id7268965">Evalueer:</para>
+      <para id="id1166624737247">1.10 met bystand die produk evalueer volgens die ontwerpopdrag en gegewe spesifikasies en beperkings (bv. mense, doel, omgewing), en verbeteringe en wysigings voorstel, indien nodig;</para>
+      <para id="id1262174">1.11 die aksieplan wat gevolg is evalueer en verbeteringe en wysigings voorstel, indien nodig;</para>
+      <para id="id1166616010813">Kommunikeer:</para>
+      <para id="id1166617952616">1.12 tweedimensionele sketse maak met byskrifte en, indien gepas, kleur gebruik om dit doeltreffender te maak.</para>
+      <para id="id1166612637488">LU 2</para>
+      <para id="id8831963">TEGNOLOGIESE KENNIS EN BEGRIP</para>
+      <para id="id1166616587390">Die leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</para>
+      <para id="id1166615516367">Dit is duidelik wanneer die leerder:</para>
+      <para id="id1166617002619">Stelsels en beheer:</para>
+      <list id="id1166612642126" list-type="bulleted">
+        <item>kennis en begrip toon van hoe om energiebronne te gebruik om meganiese stelsels aan te dryf om ‘n produk op ‘n manier te laat beweeg.</item>
+      </list>
+    </section>
+    <section id="id1166613436353">
+      <title>Memorandum</title>
+      <para id="para-id1166613436353">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166618007882">
+      <title>Voorkennis</title>
+      <para id="id5293739">(a)</para>
+      <para id="id1166616580835">1. Antwoorde sal verskil</para>
+      <para id="id1166613444943">2. asemhalingstelsel beenstelsel spierstelsel</para>
+      <para id="id1166617799736">3. senuweestelsel spysverteringstelsel klierstelsel</para>
+      <para id="id1166615825202"> bloedsomloopstelsel</para>
+      <para id="id1166616004191">(b)</para>
+      <para id="id1166616906146">1. a) meganiese b) meganiese</para>
+      <para id="id1166613337042"> c) hidrouliese d) meganiese</para>
+      <para id="id5447894"> e) elektriese f) meganiese</para>
+      <para id="id1166618204385">Die antwoorde kan tot vrugbare besprekings lei, aangesien sommige sketse ‘n kombinasie van stelsels toon.</para>
+      <para id="id1166615519364">(c) <emphasis effect="bold">Dele Funksie</emphasis></para>
+      <para id="id1166613527073">1. a) pedale; ketting; wiele beweging</para>
+      <para id="id1166613367660"> b) handvatsels; voorwiel rigtingverandering</para>
+      <para id="id1166616699388"> c) remme stop</para>
+    </section>
+  </content>
+</document>
